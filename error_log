@@ -1,0 +1,2 @@
+[20-Aug-2014 13:31:48 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 64 bytes) in /home/ualibrary/public_html/includes/cache.inc on line 434
+[20-Aug-2014 13:32:31 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 42 bytes) in /home/ualibrary/public_html/includes/cache.inc on line 434
